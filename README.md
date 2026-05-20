@@ -6,7 +6,7 @@
 - ✨ Eager to contribute my enthusiasm and expertise to a dynamic professional team!
 
 ## Let's Connect! 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivancroce) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivan.croce.it@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?logo=vercel&logoColor=white)](https://ivan-croce-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivancroce) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivan.croce.it@gmail.com)
 
 ## My Tech Stack 💻
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
